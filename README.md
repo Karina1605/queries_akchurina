@@ -28,4 +28,5 @@
 ![image](https://github.com/Karina1605/queries_akchurina/assets/56845814/c68ccf63-aca9-4515-beb5-6045b10c64f3)
 
 ###8
-![image](https://github.com/Karina1605/queries_akchurina/assets/56845814/a80df1f2-5a9e-4ac4-829b-8a18f59e5cc2)
+![image](https://github.com/Karina1605/queries_akchurina/assets/56845814/12adeed6-6f35-4618-8646-295c2176283e)
+
