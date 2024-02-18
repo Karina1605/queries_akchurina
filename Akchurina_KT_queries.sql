@@ -74,4 +74,6 @@ where t.standard_cost in (select * from cte limit 1)
 select c.* from transaction t join customer c 
 on t.customer_id = c.customer_id 
 where c.job_industry_category in ('IT', 'Health')
-and t.order_status = 'Approved'
+and t.order_status = 'Approved' 
+and t.transaction_date >= '07.07.2017' 
+and t.transaction_date <='17.07.2017'
